@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Garasi Servis</string><string name="record_count">Catatan servis (%1$d)</string>
+    <string name="add_record">Tambah servis</string><string name="edit_record">Ubah servis</string>
+    <string name="delete_title">Hapus catatan?</string><string name="delete_message">Catatan servis %1$s akan dihapus.</string>
+    <string name="delete">Hapus</string><string name="cancel">Batal</string><string name="save">Simpan</string>
+    <string name="required">Wajib diisi</string><string name="invalid_cost">Masukkan biaya yang valid</string><string name="saved">Catatan tersimpan</string>
+</resources>
